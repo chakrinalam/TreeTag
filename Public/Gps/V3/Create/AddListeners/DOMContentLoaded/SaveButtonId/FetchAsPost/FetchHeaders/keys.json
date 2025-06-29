@@ -1,0 +1,13 @@
+{
+    "method": "POST",
+    "headers": {
+        "Accept": "application/json",
+        "Content-Type": "application/json"
+    },
+    "body": {
+        "Longitude": "",
+        "Latitude": "1",
+        "TreeName": "",
+        "DateTime": ""
+    }
+}
